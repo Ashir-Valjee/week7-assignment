@@ -44,7 +44,6 @@ export default function Form() {
       cooking_time: "",
       region: "",
     });
-    window.location.href = window.location.href;
   }
 
   // we also need to hendaleChange
