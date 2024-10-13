@@ -67,8 +67,6 @@ export default function PostsPage({
       comment: "",
       recipe_id: "",
     });
-
-    window.location.href = window.location.href;
   }
 
   // ============================================================================================================================================
